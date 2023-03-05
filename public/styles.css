@@ -1,0 +1,24 @@
+body {
+  margin-left: 10rem;
+  margin-right: 10rem;
+  font-size: 2rem;
+}
+
+.navbar {
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  border: solid;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.navbar a {
+  padding-left: 0.2rem;
+  flex-wrap: wrap;
+  font-style: underline;
+}
+
+a:link {
+  color: black;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sagta.github.io",
+  "version": "1.0.0",
+  "description": "This is a website by Chetan Sagta.",
+  "main": "index.html",
+  "scripts": {
+      "start":"node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChetanSagta/sagta.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChetanSagta/sagta.github.io/issues"
+  },
+  "homepage": "https://github.com/ChetanSagta/sagta.github.io#readme"
+}
